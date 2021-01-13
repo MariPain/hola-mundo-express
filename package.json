@@ -1,0 +1,24 @@
+{
+    "name": "hola-mundo-express",
+    "version": "1.0.0",
+    "description": "DEMO de node con express",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MariPain/hola-mundo-express.git"
+    },
+    "author": "MariPain",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MariPain/hola-mundo-express/issues"
+    },
+    "homepage": "https://github.com/MariPain/hola-mundo-express#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
